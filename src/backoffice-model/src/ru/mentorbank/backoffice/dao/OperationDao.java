@@ -9,4 +9,3 @@ public interface OperationDao {
 	public void saveOperation(Operation operation) throws OperationDaoException;
 	public Set<Operation> getOperations() throws OperationDaoException;
 }
-//ОЛОЛО!
